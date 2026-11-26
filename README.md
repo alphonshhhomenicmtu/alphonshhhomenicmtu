@@ -2,7 +2,7 @@
 
 **Independent AI Systems, Post-Quantum Security & Zero-Knowledge Engineering**
 
-We build verifiable infrastructure across four core tracks: smart-glasses HUDs, post-quantum agent identity, zero-knowledge DeFi security, and multi-agent protocol meshes. Every release below ships with reproducible test suites, live web deployments, architecture pitch decks, and 1080p walkthroughs.
+We build verifiable infrastructure across five core tracks: smart-glasses HUDs, post-quantum agent identity, zero-knowledge DeFi security, multi-agent protocol meshes, and enterprise agentic workflows. Every release below ships with reproducible test suites, live web deployments, and architecture pitch decks.
 
 - **Showcase Hub**: [alphonshhhomenicmtu.github.io](https://alphonshhhomenicmtu.github.io/)
 - **YouTube Walkthroughs**: [@alphonshhhomenicmtu](https://www.youtube.com/@alphonshhhomenicmtu)
@@ -45,6 +45,14 @@ We build verifiable infrastructure across four core tracks: smart-glasses HUDs, 
 | [**sentinel-minion-cortensor**](https://github.com/alphonshhhomenicmtu/sentinel-minion-cortensor) | Verifiable Proof-of-Inference audit and secret redaction guard for Cortensor | [Live Demo](https://alphonshhhomenicmtu.github.io/sentinel-minion-cortensor/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/sentinel-minion-cortensor/sentinel-minion-deck.pdf) · [YouTube](https://youtu.be/uKIHzoATPuA) |
 | [**gensyn-delphi-miner**](https://github.com/alphonshhhomenicmtu/gensyn-delphi-miner) | Continuous evidence miner and API conformance suite for Gensyn Delphi | [Live Demo](https://alphonshhhomenicmtu.github.io/gensyn-delphi-miner/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/gensyn-delphi-miner/delphi-miner-deck.pdf) · [YouTube](https://youtu.be/ghRzxNW0_rI) |
 | [**flux-in-production-studio**](https://github.com/alphonshhhomenicmtu/flux-in-production-studio) | Deterministic 24fps cinema and visual continuity pipeline for Black Forest Labs FLUX | [Live Demo](https://alphonshhhomenicmtu.github.io/flux-in-production-studio/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/flux-in-production-studio/flux-production-deck.pdf) · [YouTube](https://youtu.be/ravl_6X0nKE) |
+
+### Enterprise & Agentic Workflows
+
+| Project | Summary | Links |
+|---|---|---|
+| [**contextbridge-codegeist**](https://github.com/alphonshhhomenicmtu/contextbridge-codegeist) | Incident-to-PR context graph, Rovo copilot, and MCP server for Atlassian Forge | [Live Demo](https://alphonshhhomenicmtu.github.io/contextbridge-codegeist/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/contextbridge-codegeist/contextbridge-deck.pdf) |
+| [**trialguard-gxp-codegeist**](https://github.com/alphonshhhomenicmtu/trialguard-gxp-codegeist) | Regulatory CAPA, ICH Q9 FMEA, and 21 CFR Part 11 SHA-256 audit studio on Atlassian Forge | [Live Demo](https://alphonshhhomenicmtu.github.io/trialguard-gxp-codegeist/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/trialguard-gxp-codegeist/trialguard-deck.pdf) |
+| [**clausepulse-codegeist**](https://github.com/alphonshhhomenicmtu/clausepulse-codegeist) | Contract renewal risk, clause intelligence, and procurement copilot on Atlassian Forge | [Live Demo](https://alphonshhhomenicmtu.github.io/clausepulse-codegeist/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/clausepulse-codegeist/clausepulse-deck.pdf) |
 
 ---
 
