@@ -2,7 +2,7 @@
 
 **Independent AI Systems, Post-Quantum Security & Zero-Knowledge Engineering**
 
-We build verifiable infrastructure across smart-glasses HUDs, post-quantum agent identity, zero-knowledge DeFi security, multi-agent protocol meshes, enterprise agentic workflows, and offline post-training. The catalog below is `1051/1051` passing automated tests across 23 repositories. Twenty-two of those repositories also ship a live web deployment and an architecture pitch deck. The offline GRPO kit is source, single-GPU configs, and an offline dry-run.
+We build verifiable infrastructure across smart-glasses HUDs, post-quantum agent identity, zero-knowledge DeFi security, multi-agent protocol meshes, enterprise agentic workflows, and offline post-training. The catalog below is `1238/1238` passing automated tests across 24 repositories. Every repository ships a live web deployment. Twenty-two also ship an architecture pitch deck. The GRPO kit's check is an offline dry-run: mock grader, no live train, and no API spend.
 
 - **Showcase Hub**: [alphonshhhomenicmtu.github.io](https://alphonshhhomenicmtu.github.io/)
 - **YouTube Walkthroughs**: [@alphonshhhomenicmtu](https://www.youtube.com/@alphonshhhomenicmtu)
@@ -17,13 +17,14 @@ We build verifiable infrastructure across smart-glasses HUDs, post-quantum agent
 |---|---|---|---|
 | [**pulsehud-g2**](https://github.com/alphonshhhomenicmtu/pulsehud-g2) | Even Realities G2 HUD for live DeFi telemetry, Polymarket odds, and Telegram alerts | `65/65` tests PASS | [Live Demo](https://alphonshhhomenicmtu.github.io/pulsehud-g2/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/pulsehud-g2/pulsehud-deck.pdf) · [YouTube](https://youtu.be/EHzgFv-Iw2o) |
 | [**tapehud-g2**](https://github.com/alphonshhhomenicmtu/tapehud-g2) | US equities and 4-CEX orderbook microstructure HUD for Even Realities G2 | `20/20` tests PASS | [Live Demo](https://alphonshhhomenicmtu.github.io/tapehud-g2/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/tapehud-g2/tapehud-deck.pdf) · [YouTube](https://youtu.be/zXjNW24c8-8) |
+| [**glancemate-rokid-spatial-joy**](https://github.com/alphonshhhomenicmtu/glancemate-rokid-spatial-joy) | Voice-first AR glasses copilot for Rokid Spatial Joy: menu FX, receipt split, sign navigation, and hardware error codes | `61/61` pytest PASS (offline, no API key) | [Live Demo](https://alphonshhhomenicmtu.github.io/glancemate-rokid-spatial-joy/) |
 
 ### Post-Quantum & Agent Identity
 
 | Project | Summary | Verified Metrics | Links |
 |---|---|---|---|
 | [**aegis402-concordium**](https://github.com/alphonshhhomenicmtu/aegis402-concordium) | Concordium CIS-8004/CIS-8 trusted agent firewall and sponsored x402 payment gateway | `49/49` Vitest PASS · turnkey testnet preflight & Grants milestone annex | [Live Demo](https://alphonshhhomenicmtu.github.io/aegis402-concordium/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/aegis402-concordium/aegis402-grants-deck.pdf) · [YouTube](https://youtu.be/muiGNDNXgh8) |
-| [**aegisqore-qorechain**](https://github.com/alphonshhhomenicmtu/aegisqore-qorechain) | Post-quantum AI agent firewall and scoped EVM policy registry on QoreChain | `68/68` (`24` Forge incl. `8,192` invariants + `36` Core + `8` Web) · Slither `0 H/M` · live QoreX EVM 9800 `pqcVerify=true` | [Live Demo](https://alphonshhhomenicmtu.github.io/aegisqore-qorechain/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/aegisqore-qorechain/aegisqore-deck.pdf) · [YouTube](https://youtu.be/La_8Dh7TA04) |
+| [**aegisqore-qorechain**](https://github.com/alphonshhhomenicmtu/aegisqore-qorechain) | Post-quantum AI agent firewall and scoped EVM policy registry on QoreChain | `72/72` (`20` Forge incl. `8,192` invariants + `43` Core + `9` Web) · Slither `0 H/M` · live QoreX EVM 9800 `pqcVerify=true` | [Live Demo](https://alphonshhhomenicmtu.github.io/aegisqore-qorechain/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/aegisqore-qorechain/aegisqore-deck.pdf) · [YouTube](https://youtu.be/La_8Dh7TA04) |
 | [**aevum-pqc-escrow**](https://github.com/alphonshhhomenicmtu/aevum-pqc-escrow) | Lamport-SHA256 one-time signature and EIP-3009 gasless escrow on QDay Chain | `46/46` (`15` Forge incl. `8,192` invariants + `31` pytest) · Slither `0 H/M` | [Live Demo](https://alphonshhhomenicmtu.github.io/aevum-pqc-escrow/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/aevum-pqc-escrow/aevum-pqc-deck.pdf) · [YouTube](https://youtu.be/nkpk0sRM6qs) |
 
 ### Zero-Knowledge & DeFi Security
@@ -44,7 +45,7 @@ We build verifiable infrastructure across smart-glasses HUDs, post-quantum agent
 | [**hearthbounty**](https://github.com/alphonshhhomenicmtu/hearthbounty) | On-chain micro-bounty escrow realm and MCP agent hub on Gno.land | `65/65` (`37/37` Gno VM + `12` MCP + `16` Web) · live Onyx `#1,435,170` | [Live Demo](https://alphonshhhomenicmtu.github.io/hearthbounty/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/hearthbounty/hearthbounty-deck.pdf) · [YouTube](https://youtu.be/vK6z7MJiRAk) |
 | [**sentinel-minion-cortensor**](https://github.com/alphonshhhomenicmtu/sentinel-minion-cortensor) | Verifiable Proof-of-Inference audit and secret redaction guard for Cortensor | `41/41` pytest PASS + 3 upstream patches | [Live Demo](https://alphonshhhomenicmtu.github.io/sentinel-minion-cortensor/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/sentinel-minion-cortensor/sentinel-minion-deck.pdf) · [YouTube](https://youtu.be/uKIHzoATPuA) |
 | [**gensyn-delphi-miner**](https://github.com/alphonshhhomenicmtu/gensyn-delphi-miner) | Continuous evidence miner and API conformance suite for Gensyn Delphi | `60/60` tests PASS | [Live Demo](https://alphonshhhomenicmtu.github.io/gensyn-delphi-miner/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/gensyn-delphi-miner/delphi-miner-deck.pdf) · [YouTube](https://youtu.be/ghRzxNW0_rI) |
-| [**flux-in-production-studio**](https://github.com/alphonshhhomenicmtu/flux-in-production-studio) | Deterministic 24fps cinema and visual continuity pipeline for Black Forest Labs FLUX | `33/33` pytest PASS · BFL live-swap + Broadcast Mastering Auditor (`-14.2 LUFS`) | [Live Demo](https://alphonshhhomenicmtu.github.io/flux-in-production-studio/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/flux-in-production-studio/flux-production-deck.pdf) · [YouTube](https://youtu.be/ravl_6X0nKE) |
+| [**flux-in-production-studio**](https://github.com/alphonshhhomenicmtu/flux-in-production-studio) | Deterministic 24fps cinema and visual continuity pipeline for Black Forest Labs FLUX | `34/34` pytest PASS · BFL live-swap + Broadcast Mastering Auditor (`-14.2 LUFS`) | [Live Demo](https://alphonshhhomenicmtu.github.io/flux-in-production-studio/) · [PDF Deck](https://alphonshhhomenicmtu.github.io/flux-in-production-studio/flux-production-deck.pdf) · [YouTube](https://youtu.be/ravl_6X0nKE) |
 
 ### Enterprise & Agentic Workflows
 
@@ -67,7 +68,7 @@ We build verifiable infrastructure across smart-glasses HUDs, post-quantum agent
 
 | Project | Summary | Verified Metrics | Links |
 |---|---|---|---|
-| [**halo-offline-grpo-kit**](https://github.com/alphonshhhomenicmtu/halo-offline-grpo-kit) | Offline GRPO group advantages and a White Circle `/api/events` grader, with single-GPU YAML configs | `25/25` pytest PASS on Python 3.12 (offline dry-run; mock mode, no live train and no API spend) | [GitHub](https://github.com/alphonshhhomenicmtu/halo-offline-grpo-kit) |
+| [**halo-offline-grpo-kit**](https://github.com/alphonshhhomenicmtu/halo-offline-grpo-kit) | Offline GRPO group advantages and a White Circle `/api/events` grader, with single-GPU YAML configs | `146/146` pytest PASS on Python 3.12 (offline dry-run; mock mode, no live train and no API spend) | [Live Demo](https://alphonshhhomenicmtu.github.io/halo-offline-grpo-kit/) · [GitHub](https://github.com/alphonshhhomenicmtu/halo-offline-grpo-kit) |
 
 ---
 
@@ -75,4 +76,4 @@ We build verifiable infrastructure across smart-glasses HUDs, post-quantum agent
 
 - **Languages & Toolchains**: Rust, TypeScript, Go (Gno), Solidity (Foundry), Compact (Midnight ZK), Python
 - **Core Primitives**: Lamport-SHA256 PQC signatures, EIP-712 / EIP-3009 typed authorization, ZK selective disclosure, MCP tool servers, x402 payment gates
-- **Verification Standard**: `1051/1051` passing automated tests across 23 repositories, stateful Foundry invariant fuzzing (`152,576` calls), `0 H/M` Slither static-analysis findings on audited Solidity contracts, 22 public GitHub Pages deployments, 22 architecture decks, and 18 recorded 1080p walkthroughs. The GRPO kit's `25/25` is an offline dry-run on Python 3.12: mock grader, no live train, no API spend.
+- **Verification Standard**: `1238/1238` passing automated tests across 24 repositories, stateful Foundry invariant fuzzing (`152,576` calls), `0 H/M` Slither static-analysis findings on audited Solidity contracts, 24 public GitHub Pages deployments, 22 architecture decks, and 18 recorded 1080p walkthroughs. The GRPO kit's `146/146` is an offline dry-run on Python 3.12: mock grader, no live train, no API spend.
